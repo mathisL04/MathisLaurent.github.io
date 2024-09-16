@@ -12,9 +12,9 @@ title                    : "Mathis Laurent / Research Papers"
 title_separator          : "-"
 name                     : &name "Mathis Laurent"
 description              : &description "personal description"
-url                      : https://MathisLaurent.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "https://MathisLaurent.github.io"
-repository               : "academicpages/academicpages.github.io"
+url: "https://mathisl04.github.io" # The base hostname & protocol for your site
+baseurl: "/MathisLaurent.github.io" # The subpath of your site, e.g., /repository-name
+repository: "mathisl04/MathisLaurent.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
